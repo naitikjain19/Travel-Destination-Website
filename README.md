@@ -1,5 +1,5 @@
 # Travel-Destination-Website
-This web app was developed as a part of Mini-Project in SEM-5 named Travel Destination Website Using HTML5, CSS, JS, PHP, MYSQL and hosted on 000webhost.com
+This web app was developed as a part of Mini-Project in SEM-5 named Travel Destination Website Using HTML5, CSS, JS, PHP, MYSQL and hosted on 000webhost.com.
 Here are some of the screenshots:
 <!-- <p>
 <img 
@@ -20,8 +20,8 @@ Here are some of the screenshots:
 </p>
 <p align="left">
   <img 
-    width="500"
-    height="500"
+    width="1000"
+    height="1000"
     src="https://user-images.githubusercontent.com/60510325/159933194-1078dfcb-d698-413b-932a-62398a2db4ca.png"
   >
 </p>
