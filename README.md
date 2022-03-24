@@ -18,10 +18,4 @@ Here are some of the screenshots:
 ![image](https://user-images.githubusercontent.com/60510325/159934815-da75c0e1-4437-496a-b366-33eaa52e42cc.png)
 > -->
 </p>
-<p align="left">
-  <img 
-    width="1000"
-    height="1000"
-    src="https://user-images.githubusercontent.com/60510325/159933194-1078dfcb-d698-413b-932a-62398a2db4ca.png"
-  >
-</p>
+
