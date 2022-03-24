@@ -1,7 +1,7 @@
 # Travel-Destination-Website
 This web app was developed as a part of Mini-Project in SEM-5 named Travel Destination Website Using HTML5, CSS, JS, PHP, MYSQL and hosted on 000webhost.com
 Here are some of the screenshots:
-<p>
+<!-- <p>
 <img 
   align="left"
   width="100"
@@ -16,5 +16,12 @@ Here are some of the screenshots:
 ![image](https://user-images.githubusercontent.com/60510325/159934701-0c421b3f-5f47-436c-87a7-b49406162079.png)
 ![image](https://user-images.githubusercontent.com/60510325/159934761-ea19583b-2a89-4cdf-a24d-67ad3cfad52d.png)
 ![image](https://user-images.githubusercontent.com/60510325/159934815-da75c0e1-4437-496a-b366-33eaa52e42cc.png)
->
+> -->
+</p>
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://user-images.githubusercontent.com/60510325/159933194-1078dfcb-d698-413b-932a-62398a2db4ca.png/300/300"
+  >
 </p>
