@@ -2,10 +2,7 @@
 This web app was developed as a part of Mini-Project in SEM-5 named Travel Destination Website Using HTML5, CSS, JS, PHP, MYSQL and hosted on 000webhost.com.
 Here are some of the screenshots:
 <p> 
-  align="left"
-  width="100"
-  height="100"
-![image](https://user-images.githubusercontent.com/60510325/159933194-1078dfcb-d698-413b-932a-62398a2db4ca.png)
+ ![image](https://user-images.githubusercontent.com/60510325/159933194-1078dfcb-d698-413b-932a-62398a2db4ca.png)
 ![image](https://user-images.githubusercontent.com/60510325/159933705-8ed897f9-3862-43f5-9b17-e91b4ed4055c.png)
 ![image](https://user-images.githubusercontent.com/60510325/159933820-8b47f4e1-79bd-46ef-9607-aa2dc1544fff.png)
 ![image](https://user-images.githubusercontent.com/60510325/159933906-0a252bc5-4823-4d42-a56a-f3ba40aaf958.png)
