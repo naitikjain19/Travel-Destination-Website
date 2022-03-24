@@ -22,6 +22,6 @@ Here are some of the screenshots:
   <img 
     width="300"
     height="300"
-    src="https://user-images.githubusercontent.com/60510325/159933194-1078dfcb-d698-413b-932a-62398a2db4ca.png/300/300"
+    src="https://user-images.githubusercontent.com/60510325/159933194-1078dfcb-d698-413b-932a-62398a2db4ca.png"
   >
 </p>
